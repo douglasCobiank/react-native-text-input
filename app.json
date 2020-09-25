@@ -1,0 +1,12 @@
+{
+  "name": "react-native-text-input",
+  "displayName": "react-native-text-input",
+  "expo": {
+    "name": "react-native-text-input",
+    "slug": "react-native-text-input",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
